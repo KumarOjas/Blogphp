@@ -13,4 +13,5 @@ version: 1.0.0
 1. Javascript
 1. Bootstrap 5
 
+Place the folder into c:/xampp/htdocs and type localhost/foldername on any browser 
 
